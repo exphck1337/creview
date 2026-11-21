@@ -1,0 +1,10 @@
+{
+  "name": "creview",
+  "private": true,
+  "omp": {
+    "extensions": ["./extensions/creview.ts"]
+  },
+  "pi": {
+    "extensions": ["./extensions/creview.ts"]
+  }
+}

@@ -1,0 +1,4 @@
+# generated from creview.json and templates/reviewer.md at session start
+agents/
+# your own reviewers and presets
+creview.json
